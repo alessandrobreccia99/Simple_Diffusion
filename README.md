@@ -2,8 +2,7 @@
 
 _Diffusion Model for Image Generation_  
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)
 ![Framework](https://img.shields.io/badge/framework-PyTorch-red)
 
 ---
